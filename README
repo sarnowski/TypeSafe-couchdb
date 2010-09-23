@@ -1,0 +1,5 @@
+TypeSafe-couchdb
+================================================================================
+
+A CouchDB abstraction layer for simple CouchDB usage within the pinjector
+Framework.
